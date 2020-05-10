@@ -9,12 +9,16 @@ h1{
 }
 
 /*Background Image*/
-body{
+#bg{
+    background-image: url(https://cdn.pixabay.com/photo/2015/05/15/14/52/water-768745_1280.jpg);
+    background-size: cover;
+}
+/* body{
     width: 100%; 
     height: 100%; 
     position: relative;
     background-image: url(https://cdn.pixabay.com/photo/2015/05/15/14/52/water-768745_1280.jpg);
-}
+} */
 
 /*Email form characteristics*/
 .row{
