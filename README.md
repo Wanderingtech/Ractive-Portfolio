@@ -15,3 +15,8 @@ The goals with this project were to use semantic html, responsive content, links
 
 ## Future Plan
 I plan on improving on this design as the class progresses. Some things I'd like, would be to add a footer with links to my linkedin and github accounts. Condesnse the CSS to one main file. Also adjusting my personal picture on the About page. Updating projects as I accomplish them, and adding some thumbnail images to the portfolio links.
+
+## Link
+https://wanderingtech.github.io/Reactive-Portfolio/
+
+![image](./assets/portfolio.png)
