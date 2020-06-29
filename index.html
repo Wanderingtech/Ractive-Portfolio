@@ -13,6 +13,8 @@
     integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
     crossorigin="anonymous"></script>
   <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+  <!--FontAwesome-->
+  <script src="https://use.fontawesome.com/abfae029f0.js"></script>
   <!--My local Stylesheet-->
   <link rel="stylesheet" href="./assets/index.css">
 </head>
@@ -50,7 +52,7 @@
         <div class="w-75 mx-auto">
           <div class="card">
             <img src="./assets/bioprofile.jpg" class="card-image-top-fluid" alt="Picture Of Heather">
-            <div class="card-body">
+            <div class="card-body" id="aboutMe">
               <h5 class="card-title">About Me!</h5>
               <p class="card-text">I've worked in surgery for 13 years. This is the year I broke out,
                 learned something entirely new, and found a new passion. I have a deep rooted love of learning.
@@ -74,10 +76,27 @@
     </div>
   </div>
   <footer>
-    <a href="https://github.com/Wanderingtech" id="github">Github</a>
-    <a href="https://www.linkedin.com/in/heather-stolz-62176a144/" id="linkedin">LinkedIn</a>
-    <a href="https://docs.google.com/document/d/1_iE3bIZA7AjrbeyVCxJNvxxW2X_b3UIHUgBV-Q0rvUc/edit?usp=sharing"
-      id="resume">Resume</a>
+    <div class="card text-center">
+      <div class="card-header" id="footerHeader">
+        Check me out
+      </div>
+      <div class="card-body">
+        <h5 class="card-title"></h5>
+        <a href="https://github.com/Wanderingtech" id="github" class="btn btn-primary" target="_blank">
+          <i class="fab fa-github"></i>
+          Github
+        </a>
+          
+        <a href="https://www.linkedin.com/in/heather-stolz-62176a144/" id="linkedin" class="btn btn-primary" target="_blank">
+        <i class="fab fa-linkedin"></i>
+        Linkedin
+      </a>
+        <a href="https://docs.google.com/document/d/1_iE3bIZA7AjrbeyVCxJNvxxW2X_b3UIHUgBV-Q0rvUc/edit?usp=sharing" id="resume" class="btn btn-primary" target="_blank">
+        <i class="fab fa-file"></i>
+        Resume
+        </a>
+      </div>
+    </div>
   </footer>
   <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
     integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"

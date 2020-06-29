@@ -19,8 +19,8 @@ body{
     width: auto;
 }
 
-/*Card Characteristics*/
-.card-body{
+/*Card Characteristics*/,
+.projects{
     background-color: rgb(162, 240, 214);
     text-align: center;
     color: darkslategray;
@@ -32,3 +32,8 @@ body{
     background-color: darkslategray;
     border: darkslategray;
 }
+#footerHeader{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+}
+

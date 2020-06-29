@@ -19,3 +19,12 @@ img{
     border-radius: 8px;
     max-inline-size: 300px;
 }
+#footerHeader{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+}
+/*Buttton style*/
+.btn{
+    background-color: darkslategray;
+    border: darkslategray;
+}

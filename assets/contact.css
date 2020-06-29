@@ -36,3 +36,14 @@ h2{
     display: block;
     margin: 0 auto;
 }
+#footerHeader{
+    background-color: rgb(162, 240, 214);
+    color: darkslategray;
+}
+/*Buttton style*/
+#github,
+#linkedin,
+#resume {
+    background-color: darkslategray;
+    border: darkslategray;
+}
