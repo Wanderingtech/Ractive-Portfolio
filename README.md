@@ -14,7 +14,11 @@ Youtube and Google helped me develop the contact form. As well as many styling c
 The goals with this project were to use semantic html, responsive content, links that worked correctly, consistant nav bar, personal information, and proper use of Bootstrap and it's components.
 
 ## Future Plan
-I plan on improving on this design as the class progresses. Some things I'd like, would be to add a footer with links to my linkedin and github accounts. Condense the CSS to one main file. Also adjusting my personal picture on the About page. Updating projects as I accomplish them, and adding some thumbnail images to the portfolio links.
+Fix contact page links. 
+
+Adjust footer styling.
+
+Adjust portfolio page card styling.
 
 ## Link
 https://wanderingtech.github.io/Reactive-Portfolio/
