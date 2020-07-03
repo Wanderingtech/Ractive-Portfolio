@@ -32,7 +32,7 @@ h2{
     text-align: center;
 }
 
-.btn{
+.submit{
     display: block;
     margin: 0 auto;
 }
@@ -40,7 +40,7 @@ h2{
     background-color: rgb(162, 240, 214);
     color: darkslategray;
 }
-/*Buttton style*/
+/*media link style*/
 #github,
 #linkedin,
 #resume {
